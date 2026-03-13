@@ -1,64 +1,33 @@
+# 🔐 SysSec Lab
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Practical+Cybersecurity+Learning+Lab;Linux+Security+Hardening;System+Security+Experiments;Documenting+Hands-on+Security+Work" />
+</p>
 
 ---
 
-# 🔐 SysSec Lab  
-### **My Security Work Log & Practical Learning Journal**
+## 📘 About This Repository
 
-`SysSec Lab` is where I document my **day-to-day cybersecurity work**, including the steps I perform, what I learn, and the experiments I run.  
-This repo acts as my **personal security lab**, tracking my progress in a clear and simple way.
+**SysSec Lab** is my personal cybersecurity learning lab where I document hands-on experiments, system hardening exercises, and security concepts as I explore them.
 
----
-
-## 📘 What This Repository Contains  
-
-### **1. Daily Security Log**  
-Short notes on what I worked on each day:  
-- Commands used  
-- Fixes made  
-- Concepts learned  
-- Small tasks & experiments  
+The goal is to maintain a **simple technical work log of practical security learning and experiments over time.**
 
 ---
 
-### **2. System Security & Hardening Notes**  
-Documentation of practical work like:  
-- SSH hardening  
-- Auditd setup  
-- Firewall configuration  
-- Log monitoring  
-- Secure configurations  
+## 🔬 Current Focus
+
+* Linux system hardening
+* SSH security configuration
+* Audit logging with `auditd`
+* Firewall baseline using `ufw`
+* Understanding real system security behavior
 
 ---
 
-### **3. Web & Application Security Practice**  
-Simple walkthroughs of security tests I perform:  
-- CSRF, XSS, CSP checks  
-- Auth issues  
-- API testing  
-- Brute force & rate limit tests  
+## 📈 Purpose
+
+This repository serves as a **structured learning journal**, tracking my progress as I build practical cybersecurity skills through experimentation.
 
 ---
 
-### **4. Attack Simulations**  
-Experiments done to understand real-world attacks:  
-- Privilege escalation  
-- MITM/network tests  
-- Upload & inclusion bugs  
-- Vulnerable app exploration  
-
----
-
-### **5. Tools & Scripts**  
-Small utilities I build or use (Bash/Python) to automate tasks or analyze logs.
-
----
-
-## 🎯 Purpose  
-To keep a **clean record** of the security work I do every day and to build a **practical portfolio** that shows real progress over time.
-
----
-
-## ⭐ If You're Viewing This  
-Thanks for visiting — this repo grows regularly as I learn and document more.
-
----
+👨‍💻 *Maintained by Sai Shashank*
