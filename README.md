@@ -10,7 +10,7 @@
 
 **SysSec Lab** is my personal cybersecurity learning lab where I document hands-on experiments, system hardening exercises, and security concepts as I explore them.
 
-The goal is to maintain a **simple technical work log of practical security learning and experiments over time and explain the basic linux hardening **
+The goal is to maintain a **simple technical work log of practical security learning and experiments over time and explain the basic linux hardening**
 
 ---
 
