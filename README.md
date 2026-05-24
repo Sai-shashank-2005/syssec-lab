@@ -90,3 +90,4 @@ During simulation, the following logs were captured to validate SOC visibility:
 
 **Sai Shashank P**
 *SOC Analyst*
+Dedicated to Threat Detection, Incident Response, and Security Engineering.
